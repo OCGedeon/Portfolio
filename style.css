@@ -151,7 +151,7 @@ p {
   font-size: 14px;
   font-weight: normal;
   line-height: 24px;
-  color: #7e7e7e;
+  color: black;
   margin-bottom: 15px;
 }
 hr{
@@ -1909,6 +1909,10 @@ sub.duration {
 ----------------------------------------*/
 .about-me-row {
   background: rgba(0, 0, 0, 0) url("img/newabout.jpg") repeat scroll center center / cover ;
+  padding: 200px 0;
+}
+.about-me-row2 {
+  background: rgba(0, 0, 0, 0) url("img/kid.jpg") repeat scroll center center / cover ;
   padding: 200px 0;
 }
 .about-text-content h1 {
