@@ -1206,7 +1206,7 @@ transition-duration: 0.6s;
   9. Breadcrumb styles 
 ---------------------------------*/
 .breadcrumb-area {
-  background: rgba(0, 0, 0, 0) url("img/lg.jpg") repeat scroll center center / cover ;
+  background: rgba(0, 0, 0, 0) url("img/hello.gif") repeat scroll center center / cover ;
   padding: 100px 0;
 }
 .page-cat {
@@ -1912,8 +1912,8 @@ sub.duration {
   padding: 200px 0;
 }
 .about-me-row2 {
-  background: rgba(0, 0, 0, 0) url("img/kid.jpg") repeat scroll center center / cover ;
-  padding: 200px 0;
+  background: rgba(0, 0, 0, 0) url("img/pjimage.jpg") repeat scroll center center / cover ;
+  /* padding: 200px 0; */
 }
 .about-text-content h1 {
   color: #fff;
