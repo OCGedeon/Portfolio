@@ -1214,6 +1214,13 @@ transition-duration: 0.6s;
   font-weight: 400;
   letter-spacing: 1px;
   text-transform: uppercase;
+  color: black;
+}
+.page-cats {
+  font-size: 28px;
+  font-weight: 400;
+  letter-spacing: 1px;
+  text-transform: uppercase;
   color: orange;
 }
 .breadcrumb-list > li {
