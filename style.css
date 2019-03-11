@@ -92,7 +92,7 @@ a:hover,
 a,
 button {
   outline: medium none;
-  color: #4FC1F0;
+  color: gold;
 }
 .uppercase { 
   text-transform: uppercase;
@@ -1206,7 +1206,7 @@ transition-duration: 0.6s;
   9. Breadcrumb styles 
 ---------------------------------*/
 .breadcrumb-area {
-  background: rgba(0, 0, 0, 0) url("img/hello.gif") repeat scroll center center / cover ;
+  background: rgba(0, 0, 0, 0) url("img/image3.gif") repeat scroll center center / cover ;
   padding: 100px 0;
 }
 .page-cat {
@@ -1214,6 +1214,7 @@ transition-duration: 0.6s;
   font-weight: 400;
   letter-spacing: 1px;
   text-transform: uppercase;
+  color: orange;
 }
 .breadcrumb-list > li {
   float: left;
@@ -1231,12 +1232,13 @@ transition-duration: 0.6s;
   content: "/";
   position: absolute;
   right: -11px;
+  color: gray;
 }
 .breadcrumb-list li a {
-  color: #555;
+  color: orange;
 }
 .breadcrumb-list li:last-child{
-  color: #999;
+  color: orange;
 }
 .breadcrumb-list li:last-child:before{
   display: none;
