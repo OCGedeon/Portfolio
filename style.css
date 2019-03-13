@@ -1917,7 +1917,7 @@ sub.duration {
   21. About me
 ----------------------------------------*/
 .about-me-row {
-  background: rgba(0, 0, 0, 0) url("img/SArt.gif") repeat scroll center center / cover ;
+  background: rgba(0, 0, 0, 0) url("img/CG1.jpg") repeat scroll center center / cover ;
   padding: 200px 0;
 }
 .about-me-row2 {
@@ -1925,7 +1925,7 @@ sub.duration {
   /* padding: 200px 0; */
 }
 .about-text-content h1 {
-  color: #fff;
+  color: black;
 }
 .about-text-content > p {
   color: #fff;
