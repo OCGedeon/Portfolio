@@ -81,7 +81,7 @@
 ---------------------------------------------------*/
 @media (min-width: 768px) and (max-width: 991px) {
 .container {width:750px}
-.portfolio-column-count-3 .portfolio-item {
+.portfolio-column-count-1 .portfolio-item {
   width: 50%;
 }
 .portfolio-column-count-4 .portfolio-item {
@@ -231,7 +231,7 @@
 .erika-standard-row {
   padding: 80px 0;
 }
-.portfolio-column-count-3 .portfolio-item {
+.portfolio-column-count-2 .portfolio-item {
   width: 100%;
 }
 .portfolio-column-count-4 .portfolio-item {
